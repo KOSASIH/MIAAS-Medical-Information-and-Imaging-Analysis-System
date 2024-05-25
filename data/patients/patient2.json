@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "first_name": "Jane",
+  "last_name": "Smith",
+  "email": "janesmith@example.com",
+  "phone": "987-654-3210",
+  "address": "456 Elm St, Othertown, USA"
+}

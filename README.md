@@ -20,7 +20,7 @@ To install the project, follow these steps:
 ## Clone the repository:
 
 ```bash
-1. git clone https://github.com/KOSASIH/project.git
+1. git clone https://github.com/KOSASIH/MIAAS-Medical-Information-and-Imaging-Analysis-System
 2. cd project
 ```
 

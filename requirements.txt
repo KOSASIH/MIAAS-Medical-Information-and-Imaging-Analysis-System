@@ -17,7 +17,7 @@ httpx==0.23.0
 
 # Security dependencies
 cryptography==42.0.4
-pyjwt==2.3.0
+pyjwt==2.4.0
 
 # Utility dependencies
 numpy==1.22.0

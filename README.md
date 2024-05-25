@@ -1,3 +1,5 @@
+[![DeepSource](https://app.deepsource.com/gh/KOSASIH/MIAAS-Medical-Information-and-Imaging-Analysis-System.svg/?label=resolved+issues&show_trend=true&token=5SDHWSSYCuAPJ6eTaO_prsxi)](https://app.deepsource.com/gh/KOSASIH/MIAAS-Medical-Information-and-Imaging-Analysis-System/)
+
 # MIAAS-Medical-Information-and-Imaging-Analysis-System
 The Git repository for the Medical Information and Imaging Analysis System (MIAAS) contains a project plan, design documents, source code, testing documentation, and a user manual for an AI-powered medical information system. 
 

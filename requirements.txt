@@ -1,0 +1,40 @@
+# Python version
+python==3.9.5
+
+# FastAPI framework
+fastapi==0.70.0
+fastapi-utils==0.1.4
+
+# Database dependencies
+sqlalchemy==1.4.25
+psycopg2-binary==2.9.3
+mysql-connector-python==8.0.23
+
+# API dependencies
+requests==2.26.0
+urllib3==1.26.6
+httpx==0.22.0
+
+# Security dependencies
+cryptography==3.4.7
+pyjwt==2.3.0
+
+# Utility dependencies
+numpy==1.21.2
+pandas==1.3.5
+scikit-learn==1.0.2
+opencv-python==4.5.5.64
+
+# Testing dependencies
+pytest==6.2.5
+pytest-cov==3.0.0
+coverage==6.3.2
+
+# Linting and formatting dependencies
+flake8==4.0.1
+black==22.3.0
+isort==5.10.1
+
+# CI/CD dependencies
+github-actions==2.5.0
+docker==5.0.3

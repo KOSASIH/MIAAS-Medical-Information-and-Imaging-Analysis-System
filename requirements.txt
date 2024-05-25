@@ -16,7 +16,7 @@ urllib3==1.26.6
 httpx==0.22.0
 
 # Security dependencies
-cryptography==3.4.7
+cryptography==42.0.4
 pyjwt==2.3.0
 
 # Utility dependencies

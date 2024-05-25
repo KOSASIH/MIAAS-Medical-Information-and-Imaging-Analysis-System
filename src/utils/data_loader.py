@@ -1,5 +1,6 @@
-import pandas as pd
 import numpy as np
+import pandas as pd
+
 
 class DataLoader:
     def __init__(self, data_path: str):
@@ -13,6 +14,7 @@ class DataLoader:
 
     def load_pandas(self) -> pd.DataFrame:
         return pd.read_pickle(self.data_path)
+
 
 def load_data(data_path: str, data_type: str) -> object:
     loader = DataLoader(data_path)

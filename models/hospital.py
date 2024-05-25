@@ -3,6 +3,7 @@ from typing import List
 
 from pydantic import BaseModel
 
+
 class Hospital(BaseModel):
     id: int
     name: str
@@ -18,12 +19,14 @@ class Hospital(BaseModel):
     def __repr__(self):
         return f"<Hospital(id={self.id}, name={self.name}, address={self.address}, city={self.city}, state={self.state}, zip={self.zip})>"
 
+
 class HospitalCreate(BaseModel):
     name: str
     address: str
     city: str
     state: str
     zip: str
+
 
 class HospitalUpdate(BaseModel):
     name: str = None

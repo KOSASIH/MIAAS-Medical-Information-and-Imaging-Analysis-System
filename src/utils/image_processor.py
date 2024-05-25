@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 class ImageProcessor:
     def __init__(self, image_path: str):
         self.image_path = image_path
@@ -19,6 +20,7 @@ class ImageProcessor:
     def apply_blur(self) -> np.ndarray:
         image = self.load_image()
         return cv2.blur(image, (5, 5))
+
 
 def process_image(image_path: str, processing_type: str) -> np.ndarray:
     processor = ImageProcessor(image_path)

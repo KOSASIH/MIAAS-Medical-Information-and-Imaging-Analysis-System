@@ -12,7 +12,7 @@ mysql-connector-python==8.0.23
 
 # API dependencies
 requests==2.32.2
-urllib3==1.26.18
+urllib3==1.26.19
 httpx==0.23.0
 
 # Security dependencies

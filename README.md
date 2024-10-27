@@ -70,6 +70,14 @@
 [![ISO 26000 Guidance](https://img.shields.io/badge/ISO%2026000-Guidance-orange)](https://www.iso.org/iso-26000-social-responsibility.html)
 [![SA8000 Certified](https://img.shields.io/badge/SA8000-Certified-red)](https://www.sai-global.com/en-au/standards/sa8000/)
 
+[![Webby Awards](https://img.shields.io/badge/Webby%20Awards-Awarded-brightgreen)](https://www.webbyawards.com)
+[![Cannes Lions](https://img.shields.io/badge/Cannes%20Lions-Awarded-blue)](https://www.canneslions.com)
+[![Forbes 30 Under 30](https://img.shields.io/badge/Forbes%2030%20Under%2030-Awarded-orange)](https://www.forbes.com/30-under-30)
+[![Fast Company Innovation by Design Awards](https://img.shields.io/badge/Fast%20Company%20Innovation%20by%20Design%20Awards-Awarded-red)](https://www.fastcompany.com/innovation-by-design-awards)
+[![Red Dot Design Award](https://img.shields.io/badge/Red%20Dot%20Design%20Award-Awarded-lightblue)](https://www.red-dot.org)
+[![Good Design Awards](https://img.shields.io/badge/Good%20Design%20Awards-Awarded-purple)](https://www.good-design.com)
+[![D&AD Awards](https://img.shields.io/badge/D%26AD%20Awards-Awarded-green)](https://www.dandad.org/en/d-ad-awards)
+[![The One Show](https://img.shields.io/badge/The%20One%20Show-Awarded-yellow)](https://www.oneshow.org)
 
 # MIAAS-Medical-Information-and-Imaging-Analysis-System
 

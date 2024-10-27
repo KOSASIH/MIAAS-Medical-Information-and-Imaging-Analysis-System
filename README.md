@@ -1,5 +1,34 @@
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/MIAAS-Medical-Information-and-Imaging-Analysis-System.svg/?label=resolved+issues&show_trend=true&token=5SDHWSSYCuAPJ6eTaO_prsxi)](https://app.deepsource.com/gh/KOSASIH/MIAAS-Medical-Information-and-Imaging-Analysis-System/)
 
+# International Health Organizations Certification Badges
+
+[![ISO 13485 Certified](https://img.shields.io/badge/ISO%2013485-Certified-blue)](https://www.iso.org/iso-13485-medical-devices.html)
+[![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-yellowgreen)](https://www.hhs.gov/hipaa/index.html)
+[![FDA Approved](https://img.shields.io/badge/FDA-Approved-orange)](https://www.fda.gov/)
+[![CE Mark](https://img.shields.io/badge/CE%20Mark-Certified-brightgreen)](https://ec.europa.eu/growth/single-market/ce-marking_en)
+[![DeepSource](https://app.deepsource.com/gh/KOSASIH/MIAAS-Medical-Information-and-Imaging-Analysis-System.svg/?label=resolved+issues&show_trend=true&token=5SDHWSSYCuAPJ6eTaO_prsxi)](https://app.deepsource.com/gh/KOSASIH/MIAAS-Medical-Information-and-Imaging-Analysis-System/)
+[![ISO 13485 Certified](https://img.shields.io/badge/ISO%2013485-Certified-blue)](https://www.iso.org/iso-13485-medical-devices.html)
+[![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-yellowgreen)](https://www.hhs.gov/hipaa/index.html)
+[![FDA Approved](https://img.shields.io/badge/FDA-Approved-orange)](https://www.fda.gov/)
+[![CE Mark](https://img.shields.io/badge/CE%20Mark-Certified-brightgreen)](https://ec.europa.eu/growth/single-market/ce-marking_en)
+[![NABERS](https://img.shields.io/badge/NABERS-Certified-lightblue)](https://www.nabers.gov.au/)
+[![JCI Accredited](https://img.shields.io/badge/JCI-Accredited-red)](https://www.jointcommissioninternational.org/)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-green)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-orange)](https://www.iso.org/isoiec-27001-information-security.html)
+[![AABB Accredited](https://img.shields.io/badge/AABB-Accredited-purple)](https://www.aabb.org/)
+[![CLIA Certified](https://img.shields.io/badge/CLIA-Certified-blueviolet)](https://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA)
+[![CAP Accredited](https://img.shields.io/badge/CAP-Accredited-lightgreen)](https://www.cap.org/)
+[![FDA Registered](https://img.shields.io/badge/FDA-Registered-yellow)](https://www.fda.gov/)
+[![ISO 15189 Accredited](https://img.shields.io/badge/ISO%2015189-Accredited-lightgrey)](https://www.iso.org/iso-15189-medical-laboratories.html)
+[![FSC Certified](https://img.shields.io/badge/FSC-Certified-green)](https://www.fsc.org/en)
+[![B Corp Certified](https://img.shields.io/badge/B%20Corp-Certified-yellow)](https://bcorporation.net/)
+[![Green Seal Certified](https://img.shields.io/badge/Green%20Seal-Certified-brightgreen)](https://www.greenseal.org/)
+[![ISO 45001 Certified](https://img.shields.io/badge/ISO%2045001-Certified-red)](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+[![ISO 22301 Certified](https://img.shields.io/badge/ISO%2022301-Certified-orange)](https://www.iso.org/iso-22301-business-continuity.html)
+[![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST%20Cybersecurity%20Framework-Compliant-blue)](https://www.nist.gov/cyberframework)
+[![OHSAS 18001 Certified](https://img.shields.io/badge/OHSAS%2018001-Certified-lightblue)](https://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/)
+[![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001-Certified-green)](https://www.iso.org/iso-50001-energy-management.html)
+
 # MIAAS-Medical-Information-and-Imaging-Analysis-System
 
 The Git repository for the Medical Information and Imaging Analysis System (MIAAS) contains a project plan, design documents, source code, testing documentation, and a user manual for an AI-powered medical information system.

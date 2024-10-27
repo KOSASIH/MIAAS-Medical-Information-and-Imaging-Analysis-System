@@ -68,7 +68,7 @@
 [![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-green)](https://www.iso.org/iso-9001-quality-management.html)
 [![ISO 14001 Certified](https://img.shields.io/badge/ISO%2014001-Certified-blue)](https://www.iso.org/iso-14001-environmental-management.html)
 [![ISO 26000 Guidance](https://img.shields.io/badge/ISO%2026000-Guidance-orange)](https://www.iso.org/iso-26000-social-responsibility.html)
-[![SA8000 Certified](https://img.shields.io/badge/ SA8000-Certified-red)](https://www.sai-global.com/en-au/standards/sa8000/)
+[![SA8000 Certified](https://img.shields.io/badge/SA8000-Certified-red)](https://www.sai-global.com/en-au/standards/sa8000/)
 
 
 # MIAAS-Medical-Information-and-Imaging-Analysis-System

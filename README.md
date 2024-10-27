@@ -78,6 +78,18 @@
 [![Good Design Awards](https://img.shields.io/badge/Good%20Design%20Awards-Awarded-purple)](https://www.good-design.com)
 [![D&AD Awards](https://img.shields.io/badge/D%26AD%20Awards-Awarded-green)](https://www.dandad.org/en/d-ad-awards)
 [![The One Show](https://img.shields.io/badge/The%20One%20Show-Awarded-yellow)](https://www.oneshow.org)
+[![The Clio Awards](https://img.shields.io/badge/The%20Clio%20Awards-Awarded-orange)](https://clios.com)
+[![The Web Awards](https://img.shields.io/badge/The%20Web%20Awards-Awarded-blue)](https://www.webaward.org)
+[![The Shorty Awards](https://img.shields.io/badge/The%20Shorty%20Awards-Awarded-red)](https://shortyawards.com)
+[![The Telly Awards](https://img.shields.io/badge/The%20Telly%20Awards-Awarded-green)](https://www.tellyawards.com)
+[![The A' Design Award](https://img.shields.io/badge/The%20A%27%20Design%20Award-Awarded-purple)](https://www.adesignaward.com)
+[![The International Design Awards](https://img.shields.io/badge/The%20International%20Design%20Awards-Awarded-lightblue)](https://idesignawards.com)
+[![The Stevie Awards](https://img.shields.io/badge/The%20Stevie%20Awards-Awarded-yellow)](https://stevieawards.com)
+[![The Global Good Awards](https://img.shields.io/badge/The%20Global%20Good%20Awards-Awarded-lightgreen)](https://globalgoodawards.co.uk)
+[![The UX Design Awards](https://img.shields.io/badge/The%20UX%20Design%20Awards-Awarded-brightgreen)](https://ux-design-awards.com)
+[![The Lovie Awards](https://img.shields.io/badge/The%20Lovie%20Awards-Awarded-blueviolet)](https://lovieawards.eu)
+[![The AIGA Design Awards](https://img.shields.io/badge/The%20AIGA%20Design%20Awards-Awarded-orange)](https://www.aiga.org/awards)
+[![The D&AD Awards](https://img.shields.io/badge/The%20D%26AD%20Awards-Awarded-red)](https://www.dandad.org/en/d-ad-awards)
 
 # MIAAS-Medical-Information-and-Imaging-Analysis-System
 
